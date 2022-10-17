@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I am Lissy 👋
+![me](https://user-images.githubusercontent.com/100641848/196298367-587f6cb2-004c-4f73-924d-988f8f30106e.jpg)
+```
+const lisvega= {
+pronouns:"she",
+code:[JavaScript, Node, React, HTML, CSS]
+}
+```
 
 <!--
 **lisvega/lisvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
