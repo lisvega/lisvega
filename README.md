@@ -9,7 +9,7 @@ code:[JavaScript, Node, React, HTML, CSS],
 
 you can find me🌍
 -[instagram](http://instagram.com/zlis8)
--[facebook](http://facebook.com/lisvega)
+-[facebook](https://www.facebook.com/lissy.rivera.39/)
 -[linkedln](http://linkedin.com/lissyrivera)
 
 <!--
