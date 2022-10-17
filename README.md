@@ -1,5 +1,5 @@
 ### Hi I am Lissy 👋
-
+![me](https://user-images.githubusercontent.com/100641848/196298367-587f6cb2-004c-4f73-924d-988f8f30106e.jpg)
 ```
 const lisvega= {
 pronouns:"she",
