@@ -10,7 +10,7 @@ code:[JavaScript, Node, React, HTML, CSS],
 you can find me🌍
 -[instagram](http://instagram.com/zlis8)
 -[facebook](https://www.facebook.com/lissy.rivera.39/)
--[linkedln](http://linkedin.com/lissyrivera)
+-[linkedln](https://www.linkedin.com/in/lissy-rivera-1b781511b/)
 
 <!--
 **lisvega/lisvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
