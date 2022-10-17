@@ -3,9 +3,14 @@
 ```
 const lisvega= {
 pronouns:"she",
-code:[JavaScript, Node, React, HTML, CSS]
+code:[JavaScript, Node, React, HTML, CSS],
 }
 ```
+
+you can find me🌍
+-[instagram](http://instagram.com/zlis8)
+-[facebook](http://facebook.com/lisvega)
+-[linkedln](http://linkedin.com/lissyRivera)
 
 <!--
 **lisvega/lisvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
